@@ -13,4 +13,6 @@
 
 # test link
 
-[id]:(http://www.csdn.net) "Optional Title Here"
+[id]: http://www.csdn.net "Optional Title Here"
+This is [an example][id] reference-style link.
+[baidu](http://www.baidu.com)
